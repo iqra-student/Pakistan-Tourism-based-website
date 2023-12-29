@@ -46,7 +46,8 @@ Contains the main page content with a focus on Pakistan's tourist destinations.
 ### **Best Offers Section:**
  Showcases the best offers with images, titles, star ratings, original and discounted prices.
 
-### **Expert Guidance Section:** Provides expert guidance with articles on various topics related to travel in 
+### **Expert Guidance Section:**
+  Provides expert guidance with articles on various topics related to travel in 
 Pakistan.
 
 ### **Footer:**
